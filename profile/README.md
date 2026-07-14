@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/assets/logo.png" width="96" alt="Oikonome">
+  <img src="assets/logo.png" width="96" alt="Oikonome">
 </p>
 
 <h1 align="center">Oikonome</h1>
