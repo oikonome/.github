@@ -1,22 +1,21 @@
 <p align="center">
-  <img src="assets/logo.png" width="96" alt="Oikonome">
+  <img src="assets/logo.png" width="96" alt="Oikonome" />
 </p>
 
 <h1 align="center">Oikonome</h1>
 
-<p align="center"><em>The household steward — self-hosted personal & family finance.</em></p>
+<p align="center"><b>Self-hosted personal &amp; family finance, with a daily budget verdict.</b></p>
 
 ---
 
-**Oikonome** (Greek *οἰκονόμος*, the steward who ran the household's *oikos*)
-is a self-hosted app for a family's whole financial picture — accounts,
-spending, recurring bills, net worth — ending in one plain daily verdict:
-**are we on track?**
+Oikonome pulls your accounts, spending, recurring bills, and net worth into
+one place and boils it down to a single plain email each morning:
+**are you on budget?**
 
-- **Your data, your hardware.** Runs on a box you own; exports anytime. No
-  ads, no data selling, no aggregator lock-in.
+- **Your data, your hardware.** Runs on a box you own; export anytime. No
+  ads, no data selling, no lock-in.
 - **Bring data your way.** Plaid, MX, or SimpleFIN for live feeds; community
-  API scripts; or plain CSV / OFX / QIF / PDF imports.
+  API scripts; or CSV / OFX / QIF / PDF imports.
 - **Multi-source & resilient.** Link two sources for one account — the best
   serves, the rest stand by as automatic backups.
 - **One command to run it.** `./oikonome.sh` installs, backs up, restores,
