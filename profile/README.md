@@ -21,5 +21,4 @@ one place and boils it down to a single plain email each morning:
 - **One command to run it.** `./oikonome.sh` installs, backs up, restores,
   and upgrades a self-hosted instance.
 
-**Status:** private beta. Source, issues, and contributing land here at
-public launch.
+**Status: private beta — invite-only.** Want in? **[Request access →](https://beta.oikonome.com/request-access)** and we'll send an invite as spots open. Source, issues, and contributing land here at public launch.
